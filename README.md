@@ -1,7 +1,8 @@
-Python Insights - Analisando Dados com Python
-Case Fictício - Cancelamento de Clientes
+# Python Insights - Analisando Dados com Python
 
-Descrição
+# Case Fictício - Cancelamento de Clientes
+
+### Descrição
 
 Este projeto foi desenvolvido para analisar dados de uma empresa fictícia com mais de 800 mil clientes. A empresa observou que uma grande parte de sua base de clientes é composta por clientes inativos que cancelaram o serviço. O objetivo deste projeto é entender os principais motivos desses cancelamentos e identificar as ações mais eficientes para reduzir esse número.
 
@@ -13,13 +14,13 @@ Análise exploratória para identificar padrões e tendências
 Modelagem preditiva para prever cancelamentos futuros
 Base de dados e arquivos adicionais estão disponíveis aqui: https://drive.google.com/drive/folders/184kEgAWCTjsbtDkhlYjO_JNsOkSKLI36?usp=sharing
 
-Intalação
+### Instalação
 
 1. Iniciar a instalação da biblioteca pandas:
 
    import pandas as pd
 
-Passo a Passo do projeto
+### Passo a Passo do projeto
 
 1. Importar a base de dados
 2. Visualizar a base de dados
@@ -33,7 +34,7 @@ Passo a Passo do projeto
 
 
 
-Identificando as causas do cancelamento por meio de gráficos
+### Identificando as causas do cancelamento por meio de gráficos
 
 1. ![assinatura](https://github.com/Davi-costap/python_insights_cancelamento_clientes/assets/148830331/233d4c6e-c4c4-4d37-af62-0783db7d52b1)
 2. ![dias_atraso](https://github.com/Davi-costap/python_insights_cancelamento_clientes/assets/148830331/95723087-22ac-46f7-8aab-176cb5a2898b)
@@ -47,7 +48,7 @@ Identificando as causas do cancelamento por meio de gráficos
 10. ![total_gasto](https://github.com/Davi-costap/python_insights_cancelamento_clientes/assets/148830331/c0712e07-b651-4372-92b7-ed2b8c347675)
 
 
-Conclusões
+### Conclusões
 
 De acordo com os gráficos, temos:
 
