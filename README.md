@@ -16,9 +16,10 @@ Base de dados e arquivos adicionais estão disponíveis aqui: https://drive.goog
 
 ### Instalação
 
-1. Iniciar a instalação da biblioteca pandas:
-
-   import pandas as pd
+1.**Iniciar a instalação da biblioteca pandas**:
+   ```bash
+   pip pandas as pd
+   ```
 
 ### Passo a Passo do projeto
 
