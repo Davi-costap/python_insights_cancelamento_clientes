@@ -8,11 +8,11 @@ Este projeto foi desenvolvido para analisar dados de uma empresa fictícia com m
 
 A análise inclui:
 
-Carregamento e exploração inicial dos dados
-Limpeza e preparação dos dados
-Análise exploratória para identificar padrões e tendências
-Modelagem preditiva para prever cancelamentos futuros
-Base de dados e arquivos adicionais estão disponíveis aqui: https://drive.google.com/drive/folders/184kEgAWCTjsbtDkhlYjO_JNsOkSKLI36?usp=sharing
+- Carregamento e exploração inicial dos dados
+- Limpeza e preparação dos dados
+- Análise exploratória para identificar padrões e tendências
+- Modelagem preditiva para prever cancelamentos futuros
+- Base de dados e arquivos adicionais estão disponíveis aqui: https://drive.google.com/drive/folders/184kEgAWCTjsbtDkhlYjO_JNsOkSKLI36?usp=sharing
 
 ### Instalação
 
